@@ -131,14 +131,6 @@ The **AI Analysis** tab connects directly to the [Anthropic Claude API](https://
 
 ---
 
-## 📸 Screenshots
-
-| Project Input | Risk Dashboard | AI Analysis |
-|---|---|---|
-| Fill in team size, budget, complexity, methodology | View radar chart, bar chart, and risk cards | Ask Claude for mitigation advice |
-
----
-
 ## 🔮 Roadmap
 
 - [ ] Export risk report as PDF
